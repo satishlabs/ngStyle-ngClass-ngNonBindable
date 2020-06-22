@@ -1,0 +1,38 @@
+.mydiv,
+span,
+input,
+button {
+    font-size: 25;
+    font-family: Cambria;
+    padding: 5px;
+}
+
+.mainBox {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+p {
+    font-family: Cambria;
+    font-size: 30px;
+    color: black;
+    background-color: rgb(52, 220, 226);
+    font-weight: bolder;
+}
+
+.burlyWood {
+    color: white;
+    background-color: burlywood;
+    padding: 10px;
+    border: 2px solid red;
+    width: 750px;
+    font-size: 25px;
+}
+
+.round {
+    border-radius: 20px;
+    padding: 10px;
+    border: 2px solid red;
+    width: 750px;
+    font-size: 25px;
+}
